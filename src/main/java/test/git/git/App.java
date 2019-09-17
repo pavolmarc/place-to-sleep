@@ -9,6 +9,6 @@ public class App {
 		System.out.println("Hello Whass!");
 
 		for (int i = 0; i < 10; i++)
-			System.out.println("GITHUB is awesome !");
+			System.out.println("GITHUB is wrong !");
 	}
 }
