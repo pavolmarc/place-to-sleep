@@ -7,8 +7,8 @@ package test.git.git;
 public class App {
 	public static void main(String[] args) {
 		System.out.println("Hello Whass!");
-		
-		
-		System.out.println("GITHUB is awesome !");
+
+		for (int i = 0; i < 10; i++)
+			System.out.println("GITHUB is awesome !");
 	}
 }
